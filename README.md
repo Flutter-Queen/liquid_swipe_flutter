@@ -1,5 +1,5 @@
 # Flutter Liquid Swipe
-
+A Flutter plugin to implement liquid Swipe effect to provided widgets
 
 ## Preview 👇
 https://user-images.githubusercontent.com/107878396/176233908-c371a936-6703-432f-a76f-8e68c85869c3.mp4
