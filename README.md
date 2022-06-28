@@ -6,11 +6,12 @@ https://user-images.githubusercontent.com/107878396/176233908-c371a936-6703-432f
 
 ## Package Used 👇
 
-Use the package manager [Liqui Swipe](https://pub.dev/packages/liquid_swipe) to install Liquid Swipe.
+Use the package manager [Liquid Swipe](https://pub.dev/packages/liquid_swipe) to install Liquid Swipe.
 
 ```bash
 flutter pub get liquid_swipe
 ```
+
 
 ## ⚙️ Built with Amazing Tools
 - [Flutter](https://flutter.dev/) - Beautiful native apps in record time.
@@ -19,6 +20,7 @@ flutter pub get liquid_swipe
 
 ## Written Blog ✍
 [Medium]()
+
 
 ## 🐛 Bugs/Requests
 If you encounter any problems feel free to open an issue. If you feel the library is missing a feature, please raise a ticket on Github and I'll look into it. Pull request are also welcome.
