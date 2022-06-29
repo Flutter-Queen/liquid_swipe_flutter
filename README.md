@@ -19,7 +19,7 @@ flutter pub get liquid_swipe
 - [Visual Studio Code](https://code.visualstudio.com/) - Code editing. Redefined.
 
 ## Written Blog ✍
-[Medium]()
+[Medium](https://medium.com/@flutterqueen/liquid-swipe-animation-built-with-flutter-3c62e7efce14)
 
 
 ## 🐛 Bugs/Requests
